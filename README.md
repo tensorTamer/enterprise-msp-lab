@@ -11,11 +11,11 @@
 ## 📸 Lab Screenshots — Live & Running
 
 ### pfSense Firewall Dashboard
-![pfSense Dashboard](./screenshots/pfsense-dashboard..jpeg)
+![pfSense Dashboard](.screenshots/pfsense-dashboard.png/pfsense-dashboard..jpeg)
 > pfSense 2.8.1-RELEASE running on Hyper-V — WAN (10.0.0.78) and LAN (192.168.1.1) fully segmented. All core services live: DHCP, DNS Resolver, NTP, Gateway Monitoring.
 
 ### Wazuh SIEM — Vulnerability Detection
-![Wazuh Vulnerability Detection](./screenshots/wazuh-vulnerability-detection..jpeg)
+![Wazuh Vulnerability Detection](.screenshots/pfsense-dashboard.png/wazuh-vulnerability-detection.jpeg)
 > Active vulnerability scan across all endpoints: **19 Critical**, **1,032 High**, **432 Medium** CVEs detected. Top agents: WinServer-DC (1,358 findings) and testuser01 (131 findings). CVE-2025-54100 and CVE-2025-59505/06/07 flagged for patch management.
 
 ---
